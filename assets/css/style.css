@@ -38,21 +38,26 @@ h3 {
 
 #git {
     height: 50px;
-
+    margin-left: 50%;
+    margin-bottom: 3%;
 }
 
 #linked {
     height: 55px;
-
+    margin-left: 50%;
+    margin-bottom: 3%;
 }
 
 #resume {
     height: 52px;
-
+    margin-left: 51%;
+    margin-bottom: 3%;
 }
 
 #email {
     height: 55px;
+    margin-left: 50%;
+    margin-bottom: 3%;
 }
 
 #gitlink {
@@ -61,4 +66,10 @@ h3 {
     Top: 10%;
     right:2%;
     background-color: white;
+}
+
+.col-lg-1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
