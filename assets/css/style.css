@@ -26,6 +26,8 @@ h3 {
 
 #introText {
     text-align: center;
+    margin-left: 8%;
+    margin-right: 8%;
 }
 
 #projectimg {
@@ -39,29 +41,29 @@ h3 {
 
 #git {
     height: 50px;
-    margin-left: 45%;
-    margin-right: 55%;
+    margin-left: 42%;
+    margin-right: 58%;
     margin-bottom: 3%;
 }
 
 #linked {
     height: 55px;
-    margin-left: 45%;
-    margin-right: 55%;
+    margin-left: 42%;
+    margin-right: 58%;
     margin-bottom: 3%;
 }
 
 #resume {
     height: 52px;
-    margin-left: 46%;
-    margin-right: 54%;
+    margin-left: 43%;
+    margin-right: 57%;
     margin-bottom: 3%;
 }
 
 #email {
     height: 55px;
-    margin-left: 45%;
-    margin-right: 55%;
+    margin-left: 42%;
+    margin-right: 58%;
     margin-bottom: 3%;
 }
 
@@ -69,7 +71,7 @@ h3 {
     position: absolute;
     height: 35px;
     Top: 10%;
-    right:2%;
+    right:5%;
     background-color: white;
 }
 
